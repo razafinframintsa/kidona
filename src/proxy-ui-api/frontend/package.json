@@ -15,7 +15,7 @@
     "generate-types": "./node_modules/typescript/bin/tsc --esModuleInterop scripts/dtsgen-wrapper.ts && node scripts/dtsgen-wrapper.js"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "core-js": "^3.6.4",
     "roboto-fontface": "*",
     "vee-validate": "3.3.0",
